@@ -1,0 +1,3 @@
+[submodule "todonewapp"]
+	path = todonewapp
+	url = https://github.com/rgole8701/todonewapp.git
